@@ -42,17 +42,21 @@ This project analyzes vehicle performance data and applies machine learning tech
 
 ## Visualizations
 
-### Correlation Analysis
+### Correlation Heatmap
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 
-### Feature Relationships
+### MPG Distribution
 
-![Feature Relationship](images/feature_relationship.png)
+![MPG Distribution](mpg_distribution.png)
 
-### Model Performance
+### Vehicle Type Distribution
 
-![Model Results](images/model_results.png)
+![Vehicle Type Distribution](vehicle_type_distribution.png)
+
+### Model Results
+
+![Model Results](model_results.png)
 
 ## Author
 
