@@ -44,19 +44,27 @@ This project analyzes vehicle performance data and applies machine learning tech
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](correlation_heatmap.png)
+The correlation heatmap highlights relationships between numerical vehicle attributes and helps identify the most influential variables affecting vehicle performance.
 
-### MPG Distribution
+![Correlation Heatmap](correlation_heatmap.png.png)
 
-![MPG Distribution](mpg_distribution.png)
+### MPG vs Cylinders
 
-### Vehicle Type Distribution
+This visualization shows how fuel efficiency (MPG) varies with the number of cylinders, revealing important trends in vehicle performance.
 
-![Vehicle Type Distribution](vehicle_type_distribution.png)
+![MPG vs Cylinders](mpg_vs_cylinders.png)
+
+### Origin Distribution
+
+The distribution of vehicle origins provides insight into the geographic composition of the dataset and potential regional differences in vehicle characteristics.
+
+![Origin Distribution](origin_distribution.png)
 
 ### Model Results
 
-![Model Results](model_results.png)
+The regression and classification models achieved strong predictive performance, demonstrating the effectiveness of machine learning techniques for vehicle analytics.
+
+![Model Results](model_results.png.png)
 
 ## Author
 
