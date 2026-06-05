@@ -40,6 +40,20 @@ This project analyzes vehicle performance data and applies machine learning tech
 - Machine learning models can accurately predict MPG.
 - KNN achieved over 81% classification accuracy on unseen data.
 
+- ## Visualizations
+
+### Correlation Analysis
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Feature Relationships
+
+![Feature Relationship](images/feature_relationship.png)
+
+### Model Performance
+
+![Model Results](images/model_results.png)
+
 ## Author
 
 Zakariyya Shahid
